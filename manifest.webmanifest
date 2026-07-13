@@ -1,0 +1,11 @@
+{
+  "name": "Intg Shop Admin",
+  "short_name": "Shop Admin",
+  "description": "Manage bookings, services and shop knowledge.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3efe6",
+  "theme_color": "#172b27",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
